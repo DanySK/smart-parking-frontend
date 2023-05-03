@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.2.0](https://github.com/GZaccaroni/smart-parking-frontend/compare/v2.1.0...v2.2.0) (2023-05-03)
+
+
+### Features
+
+* **deps:** added gradle version catalog ([db3dac9](https://github.com/GZaccaroni/smart-parking-frontend/commit/db3dac9ac17f02c45005bb5be0c21bea73d49afb))
+
+
+### Bug Fixes
+
+* **deps:** Fixed gradle errors in app and data module ([09845a9](https://github.com/GZaccaroni/smart-parking-frontend/commit/09845a9d4396b2b288bdefcc02270b49731b769c))
+* **deps:** update dependency androidx.compose:compose-bom to v2023.05.00 ([a6d4fb7](https://github.com/GZaccaroni/smart-parking-frontend/commit/a6d4fb778eed8f3c294b1abc9381763a9e88d4e8))
+* **deps:** update dependency androidx.compose.material:material to v1.4.3 ([5b86d0f](https://github.com/GZaccaroni/smart-parking-frontend/commit/5b86d0fc020d149a67ee11cb23066abceb7fc19b))
+* **deps:** update dependency androidx.core:core-ktx to v1.10.0 ([4803ac8](https://github.com/GZaccaroni/smart-parking-frontend/commit/4803ac8f19b1977699523cebbeb4a6ccabda572a))
+* **deps:** update dependency androidx.security:security-crypto-ktx to v1.1.0-alpha06 ([f00bd25](https://github.com/GZaccaroni/smart-parking-frontend/commit/f00bd2508fc5f071a2284b892f6d6706dbc0a3b3))
+* **deps:** update dependency com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter to v1 ([f71219d](https://github.com/GZaccaroni/smart-parking-frontend/commit/f71219db710dfd360aa14df6ac696c5c62d0c77c))
+* **deps:** update dependency org.robolectric:robolectric to v4.10 ([07722bd](https://github.com/GZaccaroni/smart-parking-frontend/commit/07722bd7c2d7553c6890fcff600e20fb3de54477))
+* **deps:** update dependency org.robolectric:robolectric to v4.10.1 ([3801eb5](https://github.com/GZaccaroni/smart-parking-frontend/commit/3801eb56f21b4cfe61a596e649963fe04d8f5879))
+
 ## [2.1.0](https://github.com/GZaccaroni/smart-parking-frontend/compare/v2.0.0...v2.1.0) (2023-03-17)
 
 
